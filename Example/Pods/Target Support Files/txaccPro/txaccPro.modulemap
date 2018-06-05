@@ -1,0 +1,6 @@
+framework module txaccPro {
+  umbrella header "txaccPro-umbrella.h"
+
+  export *
+  module * { export * }
+}

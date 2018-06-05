@@ -1,0 +1,6 @@
+framework module Pods_txaccPro_Example {
+  umbrella header "Pods-txaccPro_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

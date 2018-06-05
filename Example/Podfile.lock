@@ -1,0 +1,16 @@
+PODS:
+  - txaccPro (0.1.0)
+
+DEPENDENCIES:
+  - txaccPro (from `../`)
+
+EXTERNAL SOURCES:
+  txaccPro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  txaccPro: 56af3dccdba3339fa13bb89b67c8001d8c1203fd
+
+PODFILE CHECKSUM: 21b2a6aa8196e164f8f7ceaab426664cf1c80173
+
+COCOAPODS: 1.5.0

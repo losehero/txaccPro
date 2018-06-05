@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'txaccPro_Example' do
+  pod 'txaccPro', :path => '../'
+
+  target 'txaccPro_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
